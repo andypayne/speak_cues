@@ -1,0 +1,7 @@
+Touch A
+Touch B
+Touch C
+Correct!
+Try again
+Touch the square
+Touch the triangle
