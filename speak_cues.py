@@ -30,7 +30,6 @@ def gen_cues(infile, outdir, speak_cmd):
                                                     cue_to_filename(cue)), cue)
                 print('Running: ', cmd)
                 res = subprocess.check_output(cmd, shell=True)
-                print('Result: {}'.format(res))
 
 def main():
     """Main function"""
