@@ -3,6 +3,11 @@
 Generate audio speech files for input text specified in a file. Each cue should
 be separated by a new line.
 
+## Requirements
+
+- Mac: [say command](https://ss64.com/osx/say.html) (built-in)
+- Linux: [espeak](http://espeak.sourceforge.net/) (`sudo apt install espeak`)
+
 ## Usage
 
 ```bash
