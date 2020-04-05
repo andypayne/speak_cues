@@ -5,6 +5,7 @@ be separated by a new line.
 
 ## Requirements
 
+- Python 3
 - Mac: [say command](https://ss64.com/osx/say.html) (built-in)
 - Linux: [espeak](http://espeak.sourceforge.net/) (`sudo apt install espeak`)
 
